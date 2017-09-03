@@ -4,7 +4,7 @@ Calculate how many more messages you need to send (for every minute) in order to
 
 ### Usage
 0. Send `!rank` in a server where a Mee6 bot is present.
-0. Get your TOTAL XP (example output: ` LEVEL 14 | XP 766/1780 | \**TOTAL XP 10811** | Rank 21/1089`)
+0. Get your TOTAL XP (example output: ` LEVEL 14 | XP 766/1780 | **TOTAL XP 10811** | Rank 21/1089`)
 0. Go to [mee6calc.xyz](http://mee6calc.xyz)
   1. Enter the level you want to reach
   1. Enter your total XP
